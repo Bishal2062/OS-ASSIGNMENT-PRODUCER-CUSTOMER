@@ -1,3 +1,5 @@
+# Project Description
+
 This project shows how two processes - a producer and a consumer, work together using shared memory and semaphores.
 
 
